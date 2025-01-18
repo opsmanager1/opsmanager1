@@ -1,6 +1,9 @@
 <h1 align="center"> Welcome to BITNODES validator workspace 🔧 </h1> 
 
 ![Banner]([https://via.placeholder.com/1200x400.png?text=BITNODES+Project](https://github.com/opsmanager1/BITNODES_resources/blob/main/logo/BITlogo.png?raw=true))
+<div align="center"> 
+[<img align="center" src='https://github.com/opsmanager1/BITNODES_resources/blob/main/logo/BITlogo.png' alt='telegram' height='68'>]
+ </div>
 
 
 <!--
