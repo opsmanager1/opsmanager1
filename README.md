@@ -7,28 +7,8 @@
  <br />
  </div>
  
-#
- <div align="center">
- 
-[<img align="center" src="https://user-images.githubusercontent.com/44331529/190991117-92cba33a-637c-4870-b652-34d255f87995.png" alt='discord' height='70'>](https://discordapp.com/users/765663833049661530) [<img align="center" src='[[https://user-images.githubusercontent.com/44331529/190991712-4d6212ff-3a9d-422d-8b33-739ac76c00d8.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-x-logo-logo-brand-identity-company-organization-bl-7946611%2F&psig=AOvVaw2MvmlQXB-i5ox5mH3cQ-Nj&ust=1737292845951000&source=images&opi=89978449)](https://github.com/opsmanager1/BITNODES_resources/blob/main/x.png?raw=true)' alt='telegram' height='68'>](https://t.me/STAVRRR)
-<br />
-<br />
-  </div>
-</div>
-
-#
-
-<!--
-**opsmanager1/opsmanager1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://x.com/0psmanager"><img width="75" alt="twitter" src="https://user-images.githubusercontent.com/2853158/218300145-d265b9ad-69eb-4352-b30f-c4cc77002b98.png"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@bitnodes"><img width="75" alt="medium" src="https://user-images.githubusercontent.com/2853158/218300610-4b2ec6cb-f92e-4938-b3d6-e2da619be7df.png"></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:opsmanager133@gmail.com"><img width="75" alt="email" src="https://user-images.githubusercontent.com/2853158/218301431-d1641c39-b6a1-4dab-b15a-72a282bc061e.png"></a>
+</p>
