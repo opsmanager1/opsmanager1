@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center"> Welcome to BITNODES validator workspace 🔧 </h1> 
+
+![Banner]([https://via.placeholder.com/1200x400.png?text=BITNODES+Project](https://github.com/opsmanager1/BITNODES_resources/blob/main/logo/BITlogo.png?raw=true))
+
 
 <!--
 **opsmanager1/opsmanager1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
