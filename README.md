@@ -4,6 +4,14 @@
 <img align="center" src='https://github.com/opsmanager1/BITNODES_resources/blob/main/logo/BITlogo.png' alt='telegram' height='68'>
  </div>
 
+ <div align="center">
+  <div style="display: flex; align-items: flex-start;">
+ <img align="top" src="https://komarev.com/ghpvc/?username=obajay&color=brightgreen" height='35'/>
+<br />
+<br />
+  </div>
+</div>
+
 
 <!--
 **opsmanager1/opsmanager1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
