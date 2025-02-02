@@ -1,8 +1,9 @@
-<h1 align="center"> Welcome to BITNODES validator workspace 🔧 </h1> 
+<h1 align="center">Welcome to BITNODES validator workspace 🔧</h1>
 
-
-
-<pre style="display: block; text-align: center; margin: 0 auto;">
+<table align="center">
+<tr>
+<td>
+<pre>
 ██████╗ ██╗████████╗███╗   ██╗ ██████╗ ██████╗ ███████╗███████╗
 ██╔══██╗██║╚══██╔══╝████╗  ██║██╔═══██╗██╔══██╗██╔════╝██╔════╝
 ██████╔╝██║   ██║   ██╔██╗ ██║██║   ██║██║  ██║█████╗  ███████╗
@@ -10,11 +11,9 @@
 ██████╔╝██║   ██║   ██║ ╚████║╚██████╔╝██████╔╝███████╗███████║
 ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
 </pre>
-                                                               
- <br />
- <br />
- <br />
- </div>
+</td>
+</tr>
+</table>
  
 <p align="center">
 <a href="https://x.com/0psmanager"><img width="75" alt="twitter" src="https://user-images.githubusercontent.com/2853158/218300145-d265b9ad-69eb-4352-b30f-c4cc77002b98.png"></a> &nbsp;&nbsp;&nbsp;
