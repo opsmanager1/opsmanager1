@@ -35,4 +35,3 @@
 - 💻 **CLI Tools:** Command-line interface tools for managing node operations and troubleshooting.
 - 🔗 **Chain-Specific Tools:** Tools specific to the blockchain network a validator is participating in, such as `validator-cli` for Solana or `tezos-client` for Tezos.
 
-Feel free to add or remove tools depending on what you use!
