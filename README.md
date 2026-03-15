@@ -1,37 +1,33 @@
 
-<h1 align="center">Welcome to BITNODES validator workspace 🔧</h1>
+<h1 align="center">Hi , I am Serhii</h1>
 
-<table align="center">
-<tr>
-<td>
-<pre>
-██████╗ ██╗████████╗███╗   ██╗ ██████╗ ██████╗ ███████╗███████╗
-██╔══██╗██║╚══██╔══╝████╗  ██║██╔═══██╗██╔══██╗██╔════╝██╔════╝
-██████╔╝██║   ██║   ██╔██╗ ██║██║   ██║██║  ██║█████╗  ███████╗
-██╔══██╗██║   ██║   ██║╚██╗██║██║   ██║██║  ██║██╔══╝  ╚════██║
-██████╔╝██║   ██║   ██║ ╚████║╚██████╔╝██████╔╝███████╗███████║
-╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
-</pre>
-</td>
-</tr>
-</table>
+## Self
 
-<p align="center">
-<a href="https://x.com/0psmanager"><img width="75" alt="twitter" src="https://user-images.githubusercontent.com/2853158/218300145-d265b9ad-69eb-4352-b30f-c4cc77002b98.png"></a> &nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@bitnodes"><img width="75" alt="medium" src="https://user-images.githubusercontent.com/2853158/218300610-4b2ec6cb-f92e-4938-b3d6-e2da619be7df.png"></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:opsmanager133@gmail.com"><img width="75" alt="email" src="https://user-images.githubusercontent.com/2853158/218301431-d1641c39-b6a1-4dab-b15a-72a282bc061e.png"></a>
-</p>
+> **shipping ideas • clean code advocate • bug hunter**
+
+<h3 align="left"> Full-Stack developer focused on building scalable products and delivering real value through code </h3>
+
+<a href="https://link.com" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="x (twitter)" />
+</a>
 
 ## Tools 🛠️
 
-- 📊 **Prometheus + Grafana:** Collects and visualizes data for monitoring system metrics and validator performance.
-- 🔍 **Hubble:** A popular tool for network insights and monitoring.
-- 🌌 **Cosmos SDK:** Framework for building decentralized applications and validators on the Cosmos network.
-- ⛓️ **Geth & Besu:** Ethereum clients for running nodes and interacting with Ethereum-based chains.
-- 🐳 **Docker:** Used to containerize validator nodes for easy deployment and management.
-- ⚙️ **Ansible:** Automation tool to deploy and manage validator setups across multiple machines.
-- 📝 **Bash Scripts:** Custom scripts to manage node operations like restarting, updating, and syncing.
-- 🔐 **Ledger Hardware Wallet:** For securely storing validator keys and protecting assets.
-- 💻 **CLI Tools:** Command-line interface tools for managing node operations and troubleshooting.
-- 🔗 **Chain-Specific Tools:** Tools specific to the blockchain network a validator is participating in, such as `validator-cli` for Solana or `tezos-client` for Tezos.
+| 🐍 Core | 🌐 Web & Backend | 🕸️ Web Scraping |
+|---------|----------------|----------------|
+| Python | Django | BeautifulSoup |
+| Git | Django REST Framework | Scrapy |
+| | Requests | |
 
+| 📊 Data & ML | 🧵 Concurrency & Async | 🔐 Security |
+|-------------|--------------------|--------------|
+| NumPy | Threading | cryptography |
+| Pandas | Asyncio | |
+
+| 🐳 DevOps & Automation | 🧪 Testing | |
+|----------------------|------------|---|
+| Docker | pytest | |
+| Bash Scripts | | |
