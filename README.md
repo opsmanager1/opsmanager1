@@ -34,7 +34,7 @@ Currently, I am expanding my experience in AI/LLM-powered applications and distr
 |------------------------|----------------------------|----------------------|
 | REST API Design | Docker | Pytest |
 | Stripe | Docker Compose | TDD |
-| Google Calendar API | AWS | BDD |
+| Google API | AWS | BDD |
 | Webhooks | GitHub Actions | Integration Testing |
 | JWT Authentication | CI/CD | Refactoring |
 | HTTPS | Linux | Debugging |
