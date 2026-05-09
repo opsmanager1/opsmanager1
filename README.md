@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Serhii Lemeshko 👋</h1>
+<h1 align="center">Hi, I'm Serhii 👋</h1>
 
 <h3 align="center">
 Python Full-Stack Engineer focused on scalable backend systems,
