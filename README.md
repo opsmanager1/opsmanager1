@@ -1,30 +1,67 @@
+<h1 align="center">Hi, I'm Serhii Lemeshko 👋</h1>
 
-<h1 align="center">Hi , I am Serhii</h1>
+<h3 align="center">
+Python Full-Stack Engineer focused on scalable backend systems,
+modern web applications, and product-oriented development
+</h3>
 
-## Self
+---
 
-> **shipping ideas • clean code advocate • bug hunter**
+## About Me
 
-<h3 align="left"> Full-Stack developer focused on building scalable products and delivering real value through code </h3>
+I am a Full-Stack Developer with 3.5+ years of commercial experience building scalable web applications and backend systems.
 
-<a href="https://www.linkedin.com/in/serhii-lemeshko/" target="_blank">
-  <img src="img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>&nbsp;&nbsp;&nbsp;
+My primary focus is backend development with Python, Django, DRF, and FastAPI, where I work on REST APIs, business logic, integrations, background processing, and infrastructure setup.
 
-## Tools 🛠️
+I also have strong frontend experience with React, TypeScript, Redux, and Next.js, building responsive dashboards, interactive interfaces, and product-focused UI.
 
-| 🐍 Core | 🌐 Web & Backend | 🕸️ Web Scraping |
-|---------|----------------|----------------|
-| Python | Django | BeautifulSoup |
-| Git | Django REST Framework | Scrapy |
-| | Requests | |
+I enjoy solving complex engineering problems related to:
+- scalable booking and logistics systems
+- async processing and background jobs
+- payment integrations
+- dashboard architecture
+- search and recommendation systems
+- API integrations
+- performance optimization
 
-| 📊 Data & ML | 🧵 Concurrency & Async | 🔐 Security |
-|-------------|--------------------|--------------|
-| NumPy | Threading | cryptography |
-| Pandas | Asyncio | |
+Currently, I am expanding my experience in AI/LLM-powered applications and distributed systems.
 
-| 🐳 DevOps & Automation | 🧪 Testing | |
-|----------------------|------------|---|
-| Docker | pytest | |
-| Bash Scripts | | |
+---
+
+## Tech Stack 🛠️
+
+| 🐍 Languages | ⚙️ Backend | 🌐 Frontend |
+|--------------|------------|-------------|
+| Python | Django | React |
+| JavaScript | Django REST Framework | Next.js |
+| TypeScript | FastAPI | Redux |
+| | Celery | TypeScript |
+| | PostgreSQL | JavaScript |
+| | Redis | Tailwind CSS |
+
+---
+
+| 🔗 APIs & Integrations | 🐳 DevOps & Infrastructure | 🧪 Testing & Quality |
+|------------------------|----------------------------|----------------------|
+| REST API Design | Docker | Pytest |
+| Stripe | Docker Compose | TDD |
+| Google Calendar API | AWS | BDD |
+| Webhooks | GitHub Actions | Integration Testing |
+| JWT Authentication | CI/CD | Refactoring |
+| HTTPS | Linux | Debugging |
+
+---
+
+| 🧠 Architecture & Concepts | 📦 Workflow & Tools | 🤖 AI Tools |
+|----------------------------|---------------------|-------------|
+| OOP | Git | Claude |
+| SOLID | GitHub | GitHub Copilot |
+| Design Patterns | GitFlow | |
+| Async Processing | Agile | |
+| Background Jobs | Scrum | |
+| Caching Strategies | Kanban | |
+| System Design Basics | Jira | |
+| Scalable Architectures | Slack | |
+| | Notion | |
+
+---
