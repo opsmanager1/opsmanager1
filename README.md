@@ -9,7 +9,7 @@ modern web applications, and product-oriented development
 
 ## About Me
 
-I am a Full-Stack Developer with 3.5+ years of commercial experience building scalable web applications and backend systems.
+I am a Full-Stack Developer building scalable web applications and backend systems.
 
 My primary focus is backend development with Python, Django, DRF, and FastAPI, where I work on REST APIs, business logic, integrations, background processing, and infrastructure setup.
 
