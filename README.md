@@ -13,17 +13,6 @@ I am a Full-Stack Developer building scalable web applications and backend syste
 
 My primary focus is backend development with Python, Django, DRF, and FastAPI, where I work on REST APIs, business logic, integrations, background processing, and infrastructure setup.
 
-I also have strong frontend experience with React, TypeScript, Redux, and Next.js, building responsive dashboards, interactive interfaces, and product-focused UI.
-
-I enjoy solving complex engineering problems related to:
-- scalable booking and logistics systems
-- async processing and background jobs
-- payment integrations
-- dashboard architecture
-- search and recommendation systems
-- API integrations
-- performance optimization
-
 Currently, I am expanding my experience in AI/LLM-powered applications and distributed systems.
 
 ---
